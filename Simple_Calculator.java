@@ -25,7 +25,7 @@ class Nhan extends pheptinh{
 class Chia extends pheptinh{
 	double c;
 }
-public class Gia_Bao {
+public class Simple_Calculator {
 	static String cal(){
 		System.out.println("Nhap \"back\" de quay lai menu chinh, \"exit\" de thoat chuong trinh");
 		System.out.println("Luu y cac lenh tren khi nhap khong phan biet chu hoa chu thuong va co the du khoang trang o dau va cuoi. Chi tiet hon xem phan huong dan");
